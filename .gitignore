@@ -1,0 +1,4 @@
+*.jtl
+*.log
+html-report/
+results/
