@@ -1,4 +1,9 @@
-*.jtl
+# Generated JMeter HTML reports
+reports/
+
+# JMeter logs
 *.log
-html-report/
-results/
+
+# Windows files
+Thumbs.db
+Desktop.ini

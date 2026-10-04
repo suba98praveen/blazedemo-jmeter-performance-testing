@@ -1,0 +1,41 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1791039097443,2248,01 - Open BlazeDemo Home Page,200,OK,Load Test - 10 Users 1-1,text,true,,4761,178,2,2,https://blazedemo.com/,2245,0,1824
+1791039100744,393,02 - Search Flights,200,OK,Load Test - 10 Users 1-1,text,true,,7345,243,3,3,https://blazedemo.com/reserve.php,369,0,0
+1791039101122,681,01 - Open BlazeDemo Home Page,200,OK,Load Test - 10 Users 1-3,text,true,,4761,178,3,3,https://blazedemo.com/,679,0,326
+1791039102352,387,03 - Select Flight,200,OK,Load Test - 10 Users 1-1,text,true,,6715,290,4,4,https://blazedemo.com/purchase.php,377,0,0
+1791039102815,384,02 - Search Flights,200,OK,Load Test - 10 Users 1-3,text,true,,7385,248,4,4,https://blazedemo.com/reserve.php,372,0,0
+1791039103113,539,01 - Open BlazeDemo Home Page,200,OK,Load Test - 10 Users 1-4,text,true,,4757,178,4,4,https://blazedemo.com/,538,0,148
+1791039099117,4897,01 - Open BlazeDemo Home Page,200,OK,Load Test - 10 Users 1-2,text,true,,4761,178,4,4,https://blazedemo.com/,4890,0,4546
+1791039103743,418,04 - Purchase Flight,200,OK,Load Test - 10 Users 1-1,text,true,,5780,401,5,5,https://blazedemo.com/confirmation.php,413,0,0
+1791039104218,394,03 - Select Flight,200,OK,Load Test - 10 Users 1-3,text,true,,6715,295,4,4,https://blazedemo.com/purchase.php,380,0,0
+1791039104658,389,02 - Search Flights,200,OK,Load Test - 10 Users 1-4,text,true,,7373,247,4,4,https://blazedemo.com/reserve.php,382,0,0
+1791039105025,392,02 - Search Flights,200,OK,Load Test - 10 Users 1-2,text,true,,7333,242,4,4,https://blazedemo.com/reserve.php,363,0,0
+1791039105126,506,01 - Open BlazeDemo Home Page,200,OK,Load Test - 10 Users 1-5,text,true,,4757,178,4,4,https://blazedemo.com/,504,0,136
+1791039105625,375,04 - Purchase Flight,200,OK,Load Test - 10 Users 1-3,text,true,,5780,401,4,4,https://blazedemo.com/confirmation.php,369,0,0
+1791039106063,372,03 - Select Flight,200,OK,Load Test - 10 Users 1-4,text,true,,6715,294,4,4,https://blazedemo.com/purchase.php,366,0,0
+1791039106443,355,03 - Select Flight,200,OK,Load Test - 10 Users 1-2,text,true,,6715,289,4,4,https://blazedemo.com/purchase.php,343,0,0
+1791039106644,384,02 - Search Flights,200,OK,Load Test - 10 Users 1-5,text,true,,7349,244,4,4,https://blazedemo.com/reserve.php,366,0,0
+1791039107112,518,01 - Open BlazeDemo Home Page,200,OK,Load Test - 10 Users 1-6,text,true,,4757,178,4,4,https://blazedemo.com/,516,0,151
+1791039107443,375,04 - Purchase Flight,200,OK,Load Test - 10 Users 1-4,text,true,,5784,401,4,4,https://blazedemo.com/confirmation.php,372,0,0
+1791039107800,378,04 - Purchase Flight,200,OK,Load Test - 10 Users 1-2,text,true,,5780,401,4,4,https://blazedemo.com/confirmation.php,371,0,0
+1791039108048,414,03 - Select Flight,200,OK,Load Test - 10 Users 1-5,text,true,,6715,291,3,3,https://blazedemo.com/purchase.php,411,0,0
+1791039108643,341,02 - Search Flights,200,OK,Load Test - 10 Users 1-6,text,true,,7341,243,3,3,https://blazedemo.com/reserve.php,331,0,0
+1791039109112,658,01 - Open BlazeDemo Home Page,200,OK,Load Test - 10 Users 1-7,text,true,,4757,178,3,3,https://blazedemo.com/,656,0,144
+1791039109478,529,04 - Purchase Flight,200,OK,Load Test - 10 Users 1-5,text,true,,5780,401,3,3,https://blazedemo.com/confirmation.php,528,0,0
+1791039109995,464,03 - Select Flight,200,OK,Load Test - 10 Users 1-6,text,true,,6715,290,3,3,https://blazedemo.com/purchase.php,463,0,0
+1791039110777,470,02 - Search Flights,200,OK,Load Test - 10 Users 1-7,text,true,,7337,242,3,3,https://blazedemo.com/reserve.php,467,0,0
+1791039111114,651,01 - Open BlazeDemo Home Page,200,OK,Load Test - 10 Users 1-8,text,true,,4757,178,3,3,https://blazedemo.com/,646,0,303
+1791039111474,379,04 - Purchase Flight,200,OK,Load Test - 10 Users 1-6,text,true,,5784,401,3,3,https://blazedemo.com/confirmation.php,373,0,0
+1791039112262,561,03 - Select Flight,200,OK,Load Test - 10 Users 1-7,text,true,,6719,289,3,3,https://blazedemo.com/purchase.php,555,0,0
+1791039112780,411,02 - Search Flights,200,OK,Load Test - 10 Users 1-8,text,true,,7385,248,3,3,https://blazedemo.com/reserve.php,403,0,0
+1791039113099,590,01 - Open BlazeDemo Home Page,200,OK,Load Test - 10 Users 1-9,text,true,,4757,178,3,3,https://blazedemo.com/,589,0,138
+1791039113834,483,04 - Purchase Flight,200,OK,Load Test - 10 Users 1-7,text,true,,5780,401,4,4,https://blazedemo.com/confirmation.php,482,0,0
+1791039114199,510,03 - Select Flight,200,OK,Load Test - 10 Users 1-8,text,true,,6715,295,3,3,https://blazedemo.com/purchase.php,508,0,0
+1791039114697,414,02 - Search Flights,200,OK,Load Test - 10 Users 1-9,text,true,,7377,247,3,3,https://blazedemo.com/reserve.php,413,0,0
+1791039115099,752,01 - Open BlazeDemo Home Page,200,OK,Load Test - 10 Users 1-10,text,true,,4761,178,3,3,https://blazedemo.com/,750,0,387
+1791039115714,376,04 - Purchase Flight,200,OK,Load Test - 10 Users 1-8,text,true,,5780,401,3,3,https://blazedemo.com/confirmation.php,370,0,0
+1791039116131,358,03 - Select Flight,200,OK,Load Test - 10 Users 1-9,text,true,,6715,294,2,2,https://blazedemo.com/purchase.php,352,0,0
+1791039116864,390,02 - Search Flights,200,OK,Load Test - 10 Users 1-10,text,true,,7349,244,2,2,https://blazedemo.com/reserve.php,380,0,0
+1791039117497,511,04 - Purchase Flight,200,OK,Load Test - 10 Users 1-9,text,true,,5784,401,2,2,https://blazedemo.com/confirmation.php,510,0,0
+1791039118266,430,03 - Select Flight,200,OK,Load Test - 10 Users 1-10,text,true,,6719,291,1,1,https://blazedemo.com/purchase.php,428,0,0
+1791039119699,402,04 - Purchase Flight,200,OK,Load Test - 10 Users 1-10,text,true,,5780,401,1,1,https://blazedemo.com/confirmation.php,400,0,0
